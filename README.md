@@ -2,8 +2,8 @@
 <img src="" alt="header" width="100%" height="auto" />
 
 <h3>😺&nbsp;About me</h3>
-🌸&nbsp;Leading Software Engineer on Anti-Cheat of Riot Games<br>
-⚡&nbsp;i am a cat, love films, latte, music, minecraft, valorant, lol, maths, cats and red/purple colors.<br>i don't like loud and crowded places, not very sociable.
+🌸&nbsp;Leading Software Engineer on Anti-Cheat of Riot Games.<br>
+&nbsp;i am a cat, love films, latte, music, minecraft, valorant, lol, maths, cats and red/purple colors.<br>i don't like loud and crowded places, not very sociable.
 <br><br>
 
 <h3>💜&nbsp;Languages</h3>
