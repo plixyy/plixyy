@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/hJ48vIb.png" alt="header" width="100%" height="auto" />
+<img src="https://imgbly.com/ib/fLBHS7G1w9" alt="header" width="100%" height="auto" />
 
 <h3>😺&nbsp;About me</h3>
 🌸&nbsp;Leading Software Engineer on Anti-Cheat of Riot Games.<br>
