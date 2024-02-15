@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://i.imgur.com/UfcrMDS.png" alt="header" width="100%" height="auto" />
+<img src="https://i.imgur.com/g9Igq58.png" alt="header" width="100%" height="auto" />
 
 <h3>😺&nbsp;About me</h3>
-🌸&nbsp;Leading Software Engineer on Anti-Cheat of Riot Games.<br>
+🌸&nbsp;Leading Software Engineer on Anti-Cheat of Riot Games & Designer of Team Spirit.<br>
 &nbsp;i am a cat, love films, latte, music, minecraft, valorant, lol, maths, cats and red/purple colors.<br>i don't like loud and crowded places, not very sociable.
 <br><br>
 
