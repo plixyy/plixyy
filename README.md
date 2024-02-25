@@ -23,5 +23,4 @@
 <a href="https://discord.com/users/925824703778668584"><img src="https://plixydev.tech/github/icon_discord.png" width="50" height="50" title="Discord"></a>
 <a href="https://twitter.com/fpsplixy"><img src="https://plixydev.tech/github/icon_x.png" width="50" height="50" title="X (Twitter)"></a>
 <a href="https://www.instagram.com/plixydev/"><img src="https://plixydev.tech/github/icon_instagram.png" width="50" height="50" title="Instagram"></a>
-<h6>Web: No recent issues</h6>
 </div>
