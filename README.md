@@ -6,7 +6,7 @@
 &nbsp;i am a cat, love films, latte, music, minecraft, valorant, lol, maths, cats and red/purple colors.<br>i don't like loud and crowded places, not very sociable.
 <br><br>
 
-<h3>💜&nbsp;Languages</h3>
+<h3>💙&nbsp;Languages</h3>
 <img src="https://plixydev.tech/github/i/icon_html.png" width="80" height="28" title="HTML"></a>
 <img src="https://plixydev.tech/github/i/icon_css.png" width="80" height="28" title="CSS"></a>
 <img src="https://plixydev.tech/github/i/icon_php.png" width="80" height="28" title="PHP"></a>
