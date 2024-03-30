@@ -19,7 +19,7 @@
 <br>
 
 <h3>🔗&nbsp;Connect with me</h3>
-<a href="https://clove.lol"><img src="https://plixydev.tech/github/icon_clove.png" width="50" height="50" title="Website"></a>
+<a href="https://clove.lol"><img src="https://plixydev.tech/github/icon_valorant.png" width="50" height="50" title="Website"></a>
 <a href="https://discord.com/users/925824703778668584"><img src="https://plixydev.tech/github/icon_discord.png" width="50" height="50" title="Discord"></a>
 <a href="https://twitter.com/fpsplixy"><img src="https://plixydev.tech/github/icon_x.png" width="50" height="50" title="X (Twitter)"></a>
 <a href="https://www.instagram.com/plixydev/"><img src="https://plixydev.tech/github/icon_instagram.png" width="50" height="50" title="Instagram"></a>
